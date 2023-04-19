@@ -1,7 +1,7 @@
 # Liste des fiches
 
 
-| Nom et prenom            | Second Header              |
+| Nom et prenom            | Lien ver la fiche          |
 | ------------------------ | -------------------------- |
 | Mihamina RAKOTOMANDIMBY  | [Fiche](./Mihamina.md)        |
 
