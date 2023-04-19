@@ -10,17 +10,16 @@ Mihamina
 Rojo Leonid
 Rojo Leonid
 Mihamina
-
 Junior
-Teandry mamiaritiana
-
-
 Tendry mamiaritiana
 Nantenaina
+<<<<<<< HEAD
 - Naly Rakotomanampy
 
 Stephan
 
+=======
+>>>>>>> c8d901e929ad26dcee948e01f1874fd3a02eed66
 Stephan
 
 
