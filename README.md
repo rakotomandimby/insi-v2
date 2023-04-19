@@ -6,3 +6,4 @@
 | MAMIARITIANA Tendry             | [fiche](./Tendry.md)       |
 | RASOLOJAONA Tommy Fehizoro      | [fiche](./Tommy.md)        |
 | RASOLONJATOVO Ernest            | [fiche](./Njato.md)        |
+| RAMISAJAONA Rojoniaina Leonid   | [fiche](./Rojo.md)         |
