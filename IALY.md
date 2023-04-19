@@ -1,9 +1,11 @@
--Nom	: IALY
+- Nom   : IALY
+- Prénom: Francisco
+- Email : franciscoraymondialy@gmail.com
 
--Email  : franciscoraymondialy@gmail.com
+# Etudes
 
--Etudes : 
+- Bac C
 
--Losirs : J'adore lire un livre.
+# Loisirs
 
-
+- J'adore lire un livre
