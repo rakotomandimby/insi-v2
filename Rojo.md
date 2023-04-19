@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 -Nom:RAMISAJAONA
 -Prénoms:Rojoniaina Léonid
@@ -28,4 +28,4 @@
 - Football 
 - Jeux Video
 
->>>>>>> 679d1571ebe4f9c2e419f4cee15947f40e836ef5
+
