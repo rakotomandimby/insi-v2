@@ -1,21 +1,21 @@
- #PROFIL
+ # PROFIL
  
- -Nom : RAZAKANDRAINY
+ - Nom : RAZAKANDRAINY
  
- -Prénom : Toky Junior
+ - Prénom : Toky Junior
  
- -E-mail : TokyRazakandrainy2@gmail.com
+ - E-mail : TokyRazakandrainy2@gmail.com
 
-#ETUDES
+# ETUDES
 
- -Bac A2
+ - Bac A2
  
- -BEPC
+ - BEPC
  
- -CEPE
+ - CEPE
 
-#LOISIRS
+# LOISIRS
 
- -Football
+ - Football
  
- -Jeux Video 
+ - Jeux Video 
