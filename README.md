@@ -7,7 +7,7 @@ Mihamina
 ## Etudiant
 
 
-Rojo Leonid
+
 Rojo Leonid
 Mihamina
 
