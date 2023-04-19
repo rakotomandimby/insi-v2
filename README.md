@@ -10,7 +10,7 @@ Mihamina
 Rojo Leonid
 Rojo Leonid
 Mihamina
-Junior
+ -Junior
 Tendry mamiaritiana
 Nantenaina
 - Naly Rakotomanampy
