@@ -1,21 +1,20 @@
-#Profil
+# PROFIL
+- Nom     : Mamiaritiana
 
--Nom     : Mamiaritiana
+- Prenom  : Tendry
 
--Prenom  : Tendry
+- E-mail  : mamiaritianatendry@gmail.com
 
--E-mail  : mamiaritianatendry@gmail.com
+# ETUDES
 
-#Etudes
+- BEPC
 
--BEPC
+- BEP
 
--BEP
+- BAC pro
 
--BAC pro
+# LOISIRS
 
-#Loisirs
+- Jouer de la guitare
 
--Jouer de la guitare
-
--Chanter
+- Chanter
