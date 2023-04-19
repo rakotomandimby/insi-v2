@@ -7,3 +7,6 @@
 | RASOLOJAONA Tommy Fehizoro      | [fiche](./Tommy.md)        |
 | RASOLONJATOVO Ernest            | [fiche](./Njato.md)        |
 | RAMISAJAONA Rojoniaina Leonid   | [fiche](./Rojo.md)         |
+| LALARIVONY                      | [fiche](./LALARIVONY.md)   |
+
+
