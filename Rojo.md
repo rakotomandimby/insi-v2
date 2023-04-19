@@ -1,5 +1,7 @@
 -Nom:RAMISAJAONA
+
 -Prénoms:Rojoniaina Léonid
+
 -Email:ramisajaonaleonid@gmail.com
 
 #ETUDES
@@ -7,8 +9,11 @@
 -Bepc
 
 #LOISIR 
+
 -Football
+
 -Jeux Video
+
 -Natation
 
 
