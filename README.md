@@ -4,4 +4,5 @@
 | Mihamina RAKOTOMANDIMBY  | [Fiche](./Mihamina.md)     |
 | IALY Francisco Raymond   | [Fiche](./IALY.md)         |
 | MAMIARITIANA Tendry      | [fiche](./Tendry.md)       |
+| LALARIVONY               | [fiche](./LALARIVONY.md)   |
 
