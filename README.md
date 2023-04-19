@@ -10,4 +10,5 @@
 | LALARIVONY                      | [fiche](./LALARIVONY.md)   |
 | Toky RAZAKANDRAINY              | [fiche](./Toky.md)         |
 | Mahefa RANDRIAMIALISOA          | [fiche](./Mahefa.md)       |
-| FIDSON Kamoa Stephan            | [fiche](./Stephan.md)      |  
+| FIDSON Kamoa Stephan            | [fiche](./Stephan.md)      |
+| Naly RAKOTOMANAMPY		  | [Fiche](./Naly.md)         |  
