@@ -1,21 +1,20 @@
--Nom:RAMISAJAONA
+- Nom: RAMISAJAONA
 
--Prénoms:Rojoniaina Léonid
+- Prénoms: Rojoniaina Léonid
 
--Email:ramisajaonaleonid@gmail.com
+- Email: ramisajaonaleonid@gmail.com
 
-#ETUDES
+# ETUDES
 
--Bac D
+- Bac D
 
--Bepc
 
-#LOISIR 
+# LOISIR 
 
--Football
+- Football
 
--Jeux Video
+- Jeux Video
 
--Natation
+- Natation
 
 
