@@ -1,4 +1,3 @@
-
 | Nom et prenom                   | Lien vers la fiche         |
 | ------------------------------- | -------------------------- |
 | Mihamina RAKOTOMANDIMBY         | [Fiche](./Mihamina.md)     |
@@ -8,5 +7,3 @@
 | RASOLONJATOVO Ernest            | [fiche](./Njato.md)        |
 | RAMISAJAONA Rojoniaina Leonid   | [fiche](./Rojo.md)         |
 | LALARIVONY                      | [fiche](./LALARIVONY.md)   |
-
-
