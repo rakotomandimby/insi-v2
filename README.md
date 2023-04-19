@@ -54,8 +54,9 @@ Bojour, j'était en retard.
 # Liste des fiches
 
 
-| Nom et prenom            | Lien ver la fiche          |
+| Nom et prenom            | Lien vers la fiche         |
 | ------------------------ | -------------------------- |
-| Mihamina RAKOTOMANDIMBY  | [Fiche](./Mihamina.md)        |
+| Mihamina RAKOTOMANDIMBY  | [Fiche](./Mihamina.md)     |
+| IALY Francisco Raymond   | [Fiche](./IALY.md)         |
 
 >>>>>>> c7664fff73b0e4c1875ae4aafdf5fd4fa2c8030c
