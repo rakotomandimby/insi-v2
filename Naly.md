@@ -2,13 +2,13 @@
 - Prénom: Nalintsoa Judicaël
 - E-mail: nalintsoarakotomanampy@gmail.com
 
-#Etudes
+# Etudes
 
 - CEPE
 - BEPC
 - BAC S
 
-#Loisirs
+# Loisirs
 
 - Basket-Ball
 - Dessin
