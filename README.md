@@ -4,6 +4,7 @@
 | Mihamina RAKOTOMANDIMBY         | [Fiche](./Mihamina.md)     |
 | IALY Francisco Raymond          | [Fiche](./IALY.md)         |
 | MAMIARITIANA Tendry             | [fiche](./Tendry.md)       |
+| Nantenaina RAZAFIMAROSON        | [fiche](./Nantenaina.md)   |
 | RASOLOJAONA Tommy Fehizoro      | [fiche](./Tommy.md)        |
 | RASOLONJATOVO Ernest            | [fiche](./Njato.md)        |
 | LALARIVONY                      | [fiche](./LALARIVONY.md)   |
