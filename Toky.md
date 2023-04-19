@@ -1,4 +1,4 @@
- <<<PROFIL>>>
+ #PROFIL
  
  -Nom : RAZAKANDRAINY
  
@@ -6,7 +6,7 @@
  
  -E-mail : TokyRazakandrainy2@gmail.com
 
-<<<Etudes>>>
+#ETUDES
 
  -Bac A2
  
@@ -14,7 +14,7 @@
  
  -CEPE
 
-<<<Loisirs>>>
+#LOISIRS
 
  -Football
  
