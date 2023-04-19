@@ -1,14 +1,15 @@
--Nom: FIDSON
--Prénom: KAMOA Stephan
--Email: fidsonkamoa@gmail.com
 
-#Etudes
+- Nom: FIDSON
+- Prénoms: KAMOA Stephan
+- Email: fidsonkamoa@gmail.com
 
--Bac A2
--Bac C
+# Etudes
 
-#Loisirs
+- Bac A2
+- Bac C
 
--Volleyball
--Jeu vidéo
--Randonnée
+# Loisirs
+
+- Volleyball
+- Jeu vidéo
+- Randonnée

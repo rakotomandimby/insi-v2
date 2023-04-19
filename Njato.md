@@ -9,5 +9,5 @@
 
 # Loisirs
 
-- Foot-ball
+- Football
 - Jeux video  

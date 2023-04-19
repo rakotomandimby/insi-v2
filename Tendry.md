@@ -1,13 +1,11 @@
 # PROFIL
-- Nom     : Mamiaritiana
+- Nom  :  Mamiaritiana
 
 - Prenom  : Tendry
 
 - E-mail  : mamiaritianatendry@gmail.com
 
-# ETUDES
-
-- BEPC
+#ETUDES
 
 - BEP
 
