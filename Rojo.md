@@ -7,7 +7,7 @@
 - Bac D 
 - Bepc
 
-#Loisirs
+# Loisirs
 
 - Natation
 - Football 
