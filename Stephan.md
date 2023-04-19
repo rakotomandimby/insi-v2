@@ -1,13 +1,14 @@
+
 -Nom: FIDSON
--Prénom: KAMOA Stephan
+-Prénoms: KAMOA Stephan
 -Email: fidsonkamoa@gmail.com
 
-#Etudes
+# Etudes
 
 -Bac A2
 -Bac C
 
-#Loisirs
+# Loisirs
 
 -Volleyball
 -Jeu vidéo
