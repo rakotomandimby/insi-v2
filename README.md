@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Liste des fiches
 
@@ -67,4 +68,14 @@ Bojour, j'était en retard.
 | Mihamina RAKOTOMANDIMBY  | [Fiche](./Mihamina.md)     |
 | IALY Francisco Raymond   | [Fiche](./IALY.md)         |
 
+=======
+| Nom et prenom                   | Lien vers la fiche         |
+| ------------------------------- | -------------------------- |
+| Mihamina RAKOTOMANDIMBY         | [Fiche](./Mihamina.md)     |
+| IALY Francisco Raymond          | [Fiche](./IALY.md)         |
+| MAMIARITIANA Tendry             | [fiche](./Tendry.md)       |
+| RASOLOJAONA Tommy Fehizoro      | [fiche](./Tommy.md)        |
+| RASOLONJATOVO Ernest            | [fiche](./Njato.md)        |
+| LALARIVONY                      | [fiche](./LALARIVONY.md)   |
+>>>>>>> 679d1571ebe4f9c2e419f4cee15947f40e836ef5
 
