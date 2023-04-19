@@ -1,4 +1,4 @@
-#Profil
+#PROFIL
 
 -Nom     : Mamiaritiana
 
@@ -6,7 +6,7 @@
 
 -E-mail  : mamiaritianatendry@gmail.com
 
-#Etudes
+#ETUDES
 
 -BEPC
 
@@ -14,7 +14,7 @@
 
 -BAC pro
 
-#Loisirs
+#LOISIRS
 
 -Jouer de la guitare
 
