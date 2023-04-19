@@ -9,8 +9,6 @@ Mihamina
 
 Rojo Leonid
 Mihamina
-
 Junior
-
 Teandry mamiaritiana
 
