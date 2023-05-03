@@ -1,7 +1,7 @@
 #Profil
 
--Nom : RAZAFIMAROSON
--Prénom : Mihony Nantenaina 
+- Nom : RAZAFIMAROSON
+- Prénom : Mihony Nantenaina 
 
 #Etudes
 
