@@ -11,4 +11,5 @@
 | Toky RAZAKANDRAINY              | [fiche](./Toky.md)         |
 | Mahefa RANDRIAMIALISOA          | [fiche](./Mahefa.md)       |
 | FIDSON Kamoa Stephan            | [fiche](./Stephan.md)      |
-| Naly RAKOTOMANAMPY		  | [Fiche](./Naly.md)         |  
+| Naly RAKOTOMANAMPY		  | [Fiche](./Naly.md)         | 
+| Juliano INDIAMANITRIMO	  | [Fiche](./Juliano.md)      |
