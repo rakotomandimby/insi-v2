@@ -1,12 +1,16 @@
--Nom:RANDRIAMIALISOA
--Prénoms:Mahefa
--Email:mahefajaydecheung5200@gmail.com
+- Nom: RANDRIAMIALISOA
+- Prénom: Mahefa 
+- Email : mahefajaydecheung5200@gmail.com
 
-#ETUDES
--Bac Technique
--Bep
+# Etudes
 
-#LOISIR 
--Football
--Jeux Video
--Moto
+- Bac Technique
+- Bep
+
+# Loisirs
+
+- Football
+- Jeux Video
+- Moto
+
+
