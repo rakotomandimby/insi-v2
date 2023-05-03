@@ -1,9 +1,9 @@
-#Profil
+# Profil
 
 - Nom : RAZAFIMAROSON
 - Prénom : Mihony Nantenaina 
 
-#Etudes
+# Etudes
 
 - Informatique
 
